@@ -4,11 +4,21 @@ Simulador de vida mobile feito em Godot 4 onde você é um jovem de 18 anos que 
 
 ---
 
+## Por que esse jogo existe
+
+Sou fã de jogos offline com progressão — aqueles onde você pode maratonar horas ou ir fazendo de pouquinho em pouquinho, sem depender de ninguém, sem pagar, sem esperar, sem internet. Jogos que existem inteiros, do começo ao fim, só pra você.
+
+Esses jogos sumiram. Não porque o público sumiu — mas porque não são mais lucrativos num mercado que prefere vender energia, passes de batalha e timers. Então resolvi fazer um.
+
+SAGAI começa como um jogo que eu quero jogar e que não existe mais ninguém fazendo. Se servir pra mais alguém, melhor ainda.
+
+---
+
 ## A filosofia
 
 Inteligência artificial não é ferramenta de elite. É a maior alavanca de mobilidade social da história — se você souber usar.
 
-SAGAI coloca esse argumento dentro de um jogo. Você começa num bairro duro, sem diploma, sem rede de contatos, sem segurança. O que você tem é tempo, vontade e acesso às mesmas ferramentas de IA que qualquer pessoa no mundo usa. O que você faz com isso define onde você chega.
+SAGAI coloca esse argumento dentro de um jogo. Você é um jvem  começa num bairro duro, sem diploma, sem rede de contatos, sem segurança. O que você tem é tempo, vontade e acesso às mesmas ferramentas de IA que qualquer pessoa no mundo usa. O que você faz com isso define onde você chega.
 
 O jogo não tem caminho certo. Você escolhe entre riqueza, fama ou impacto — e cada escolha tem custo real. Dormir tem preço. Não dormir também. Relacionamentos importam. Habilidades abrem portas. A cidade se expande conforme você cresce.
 
