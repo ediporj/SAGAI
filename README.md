@@ -4,6 +4,16 @@ Simulador de vida mobile feito em Godot 4 onde você é um jovem de 18 anos que 
 
 ---
 
+## A história
+
+Você é rebelde. Sempre achou que era maior do que a cidade onde nasceu, maior do que o que seus pais conseguiram — e precisava provar isso.
+
+Então você saiu. Do interior, com pouco dinheiro no bolso e um celular na mão. Sem plano, sem rede, sem diploma. Só a certeza de que ia se sustentar por conta própria.
+
+Agora é a hora de provar.
+
+---
+
 ## Por que esse jogo existe
 
 Sou fã de jogos offline com progressão — aqueles onde você pode maratonar horas ou ir fazendo de pouquinho em pouquinho, sem depender de ninguém, sem pagar, sem esperar, sem internet. Jogos que existem inteiros, do começo ao fim, só pra você.
