@@ -1,6 +1,6 @@
 # SAGAI — Saga com Inteligência Artificial
 
-Simulador de vida mobile feito em Godot 4 onde você é um jovem de 18 anos que sai de casa com R$ 3.000 e a decisão de mudar de vida usando IA. Aluguel vence. Corpo cansa. Oportunidades aparecem — só pra quem está se movendo.
+Simulador de vida mobile feito em Godot 4 onde você é um jovem de 18 anos que sai de casa com alguns trocados e a decisão de mudar de vida usando IA. Aluguel vence. Corpo cansa. Oportunidades aparecem — só pra quem está se movendo.
 
 ---
 
